@@ -1,0 +1,226 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "altitude": 0,
+        "geometry": "Point",
+        "name": "3LCO",
+        "description": "electronic hardware store",
+        "popup-shorttext": "rotational switch ",
+        "colore": "",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3244805,
+          46.4720969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitude": 0,
+        "geometry": "Point",
+        "name": "GBC Bolzano",
+        "description": "electronic hardware store",
+        "popup-shorttext": "Bluetooth module ",
+        "colore": "",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3446748,
+          46.4926944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitude": 0,
+        "geometry": "Point",
+        "name": "Vetroricerca Glass Art Design",
+        "description": "glass blowing and casting workshop",
+        "popup-shorttext": "glass part ",
+        "colore": "",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3746716,
+          46.4933588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitude": 0,
+        "geometry": "Point",
+        "name": "Corradini Stoffe",
+        "description": "Fabric supplier",
+        "popup-shorttext": "linen covering the front of the speaker",
+        "colore": "",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.186516,
+          45.465454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitude": 0,
+        "geometry": "Point",
+        "name": "Faculty of Design and Art of Bolzano",
+        "description": "wood workshop and CNC workshop ",
+        "popup-shorttext": "wood turning of the handle and CNC milling",
+        "colore": "",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3505898,
+          46.4988629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitude": 0,
+        "geometry": "Point",
+        "name": "Ramoser Holz Srl",
+        "description": "wood supplier",
+        "popup-shorttext": "walnut for the handle ",
+        "colore": "",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3336298,
+          46.4854086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitude": 0,
+        "geometry": "Point",
+        "name": "Bitz unibz fablab",
+        "description": "3d printing. cnc milling. laser cutting ",
+        "popup-shorttext": "laser of the front part ",
+        "colore": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3483507,
+          46.4978217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 2,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.32462978363037,
+            46.47212321407543
+          ],
+          [
+            11.329479217529295,
+            46.48004367673868
+          ],
+          [
+            11.332697868347168,
+            46.48521499847745
+          ],
+          [
+            11.333684921264648,
+            46.48554003656702
+          ],
+          [
+            11.342246532440186,
+            46.487268615596605
+          ],
+          [
+            11.343061923980713,
+            46.48827323457962
+          ],
+          [
+            11.342225074768065,
+            46.490208551200475
+          ],
+          [
+            11.343598365783691,
+            46.49091765760973
+          ],
+          [
+            11.344799995422363,
+            46.49257220327856
+          ],
+          [
+            11.345572471618652,
+            46.49338468495604
+          ],
+          [
+            11.345551013946531,
+            46.49468463039297
+          ],
+          [
+            11.347246170043945,
+            46.49468463039297
+          ],
+          [
+            11.34986400604248,
+            46.495068699234515
+          ],
+          [
+            11.349091529846191,
+            46.49762416514878
+          ],
+          [
+            11.348426342010498,
+            46.49786050275017
+          ],
+          [
+            11.347997188568115,
+            46.49799344219958
+          ],
+          [
+            11.347825527191162,
+            46.49905694609409
+          ],
+          [
+            11.349220275878906,
+            46.49907171683507
+          ],
+          [
+            11.350593566894531,
+            46.49893878002191
+          ]
+        ]
+      }
+    }
+  ]
+}
