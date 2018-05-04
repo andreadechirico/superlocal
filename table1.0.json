@@ -6,6 +6,24 @@
       "properties": {
         "altitude": 0,
         "geometry": "Point",
+        "name": "See you laser",
+        "description": "Laser cutting service",
+        "popup-shorttext": "wooden structure laser cut ",
+        "colore": "blue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4750768,
+          51.4388566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitude": 0,
+        "geometry": "Point",
         "name": "Easy Laser",
         "description": "laser cut",
         "popup-shorttext": "laser cut for the wooden structure",
@@ -249,25 +267,6 @@
             5.475096702575684,
             51.43854719642725
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "altitude": 0,
-        "geometry": "Point",
-        "name": "Fablab brainport",
-        "description": "laser cut. 3D printing. CNC machinery.",
-        "popup-shorttext": "3D printing of the hair dryer back filter and joining part",
-        "colore": "",
-        "": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.461467,
-          51.4429944
         ]
       }
     },
