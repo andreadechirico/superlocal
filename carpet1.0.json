@@ -6,111 +6,16 @@
       "properties": {
         "altitude": 0,
         "geometry": "Point",
-        "name": "Beeldestorm ",
-        "description": "foundry for artists and designers",
-        "popup-shorttext": "bronze casted into sand for the base",
-        "colore": "#ccc",
-        "": ""
+        "name": "Bergauf Cooperative",
+        "description": "felth working from local wool ",
+        "popup-shorttext": "needle felthing ",
+        "colore": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.48771950000003,
-          51.439161
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "altitude": 0,
-        "geometry": "Point",
-        "name": "De Grootste Bazaar",
-        "description": "second hand supplier",
-        "popup-shorttext": "second hand mirror",
-        "colore": "#ccc",
-        "": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.5027988,
-          51.4319798
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "altitude": 0,
-        "geometry": "Point",
-        "name": "GAMMA",
-        "description": "bricolage centre",
-        "popup-shorttext": "bolts and nuts",
-        "colore": "#ccc"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.49753,
-          51.436337
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            5.487585067749023,
-            51.43922935298268
-          ],
-          [
-            5.487456321716309,
-            51.43893509062005
-          ],
-          [
-            5.486125946044922,
-            51.43802554042233
-          ],
-          [
-            5.485632419586182,
-            51.43741024619472
-          ],
-          [
-            5.490245819091797,
-            51.43670130996056
-          ],
-          [
-            5.490396022796631,
-            51.43700896288525
-          ],
-          [
-            5.497477054595947,
-            51.43603249210615
-          ],
-          [
-            5.503592491149902,
-            51.43517639096306
-          ],
-          [
-            5.5034422874450675,
-            51.43481521848119
-          ],
-          [
-            5.502820014953613,
-            51.43350427214739
-          ],
-          [
-            5.502755641937256,
-            51.43325010472878
-          ],
-          [
-            5.502798557281494,
-            51.43195249113282
-          ]
+          10.965674,
+          46.534142
         ]
       }
     }
