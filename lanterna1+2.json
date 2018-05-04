@@ -1,0 +1,49 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.495662,51.436791 ]
+    },
+    "properties": {
+    "name":"Praxis Bouwmarkt",
+    "description":"Bricolage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.503846,51.438489 ]
+    },
+    "properties": {
+    "name":"Brigatti Electronics V.O.F.",
+    "description":"Electric appliances "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.510347,51.439926 ]
+    },
+    "properties": {
+    "name":"Doornakkers",
+    "description":"Buurtkantoor"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.508009,51.434789 ]
+    },
+    "properties": {
+    "name":"De Mortel",
+    "description":"Metal Scrap Yard"
+    }
+  }
+]
+}
