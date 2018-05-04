@@ -7,25 +7,6 @@
       "properties": {
         "altitude": 0,
         "geometry": "Point",
-        "name": "Easy Laser",
-        "description": "laser cut",
-        "popup-shorttext": "laser cut for the wooden structure",
-        "colore": "",
-        "": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.5236415,
-          51.4469896
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "altitude": 0,
-        "geometry": "Point",
         "name": "Fablab brainport",
         "description": "laser cut. 3D printing. CNC machinery.",
         "popup-shorttext": "3D printing of the hair dryer back filter and joining part",
