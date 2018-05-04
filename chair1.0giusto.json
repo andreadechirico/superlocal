@@ -1,0 +1,242 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "altitude": 0,
+        "geometry": "Point",
+        "name": "GBC Bolzano",
+        "description": "electronic hardware store",
+        "popup-shorttext": "Bluetooth module ",
+        "colore": "",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3446748,
+          46.4926944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitude": 0,
+        "geometry": "Point",
+        "name": "Ramoser Holz Srl",
+        "description": "wood supplier",
+        "popup-shorttext": "walnut for the handle ",
+        "colore": "",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3336298,
+          46.4854086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitude": 0,
+        "geometry": "Point",
+        "name": "Bitz unibz fablab",
+        "description": "3d printing. cnc milling. laser cutting ",
+        "popup-shorttext": "laser of the front part ",
+        "colore": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3483507,
+          46.4978217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitude": 0,
+        "geometry": "Point",
+        "name": "Ramoser Holz Srl",
+        "description": "wood supplier",
+        "popup-shorttext": "walnut for the handle ",
+        "colore": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3336298,
+          46.4854086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#66b132",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "altitude": "",
+        "name": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.333663463592531,
+            46.485495713305525
+          ],
+          [
+            11.341913938522339,
+            46.48716519788329
+          ],
+          [
+            11.342160701751709,
+            46.487239067698575
+          ],
+          [
+            11.343094110488892,
+            46.48828062141517
+          ],
+          [
+            11.342214345932009,
+            46.490215937773236
+          ],
+          [
+            11.342568397521973,
+            46.49029719000724
+          ],
+          [
+            11.34286880493164,
+            46.49043014794648
+          ],
+          [
+            11.3433837890625,
+            46.49072560887007
+          ],
+          [
+            11.343984603881836,
+            46.49133129874571
+          ],
+          [
+            11.344842910766602,
+            46.49249834070599
+          ],
+          [
+            11.34561538696289,
+            46.49335514038044
+          ],
+          [
+            11.345636844635008,
+            46.49376876297835
+          ],
+          [
+            11.343297958374023,
+            46.4938278516641
+          ],
+          [
+            11.343330144882202,
+            46.49466247249241
+          ],
+          [
+            11.3433837890625,
+            46.49506131332084
+          ],
+          [
+            11.34364128112793,
+            46.49574081318034
+          ],
+          [
+            11.343984603881836,
+            46.496627104585016
+          ],
+          [
+            11.34461760520935,
+            46.496435076006485
+          ],
+          [
+            11.344810724258421,
+            46.49640553308805
+          ],
+          [
+            11.345508098602295,
+            46.496435076006485
+          ],
+          [
+            11.345454454421997,
+            46.497350898516636
+          ],
+          [
+            11.348158121109009,
+            46.497476453626255
+          ],
+          [
+            11.348179578781128,
+            46.49792697251551
+          ],
+          [
+            11.349155902862549,
+            46.497616779582195
+          ],
+          [
+            11.34911298751831,
+            46.498599051133894
+          ],
+          [
+            11.349306106567383,
+            46.50004657686716
+          ],
+          [
+            11.351709365844727,
+            46.499647772603005
+          ],
+          [
+            11.352739334106445,
+            46.49957391964046
+          ],
+          [
+            11.353662014007568,
+            46.499588690240984
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitude": "",
+        "geometry": "",
+        "name": "Werner Lantschner",
+        "description": "Upholsterer",
+        "popup-shorttext": "upholtery of the chair cushion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.35161817073822,
+          46.49994318344993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Corradini Stoffe",
+        "description": "Fabric supplier",
+        "popup-shorttext": "cotton for the chair cushion "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.353672742843628,
+          46.499603460837506
+        ]
+      }
+    }
+  ]
+}
