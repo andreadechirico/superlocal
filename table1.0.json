@@ -269,25 +269,6 @@
           ]
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "altitude": 0,
-        "geometry": "Point",
-        "name": "Kees Berende Glassworks",
-        "description": "glass maker",
-        "popup-shorttext": "glass part",
-        "colore": "",
-        "": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.4418538,
-          51.4748137
-        ]
-      }
     }
   ]
 }
