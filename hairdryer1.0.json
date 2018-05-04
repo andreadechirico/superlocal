@@ -1,24 +1,7 @@
 {
   "type": "FeatureCollection",
   "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "altitude": 0,
-        "geometry": "Point",
-        "name": "See you laser",
-        "description": "Laser cutting service",
-        "popup-shorttext": "wooden structure laser cut ",
-        "colore": "blue"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.4750768,
-          51.4388566
-        ]
-      }
-    },
+
     {
       "type": "Feature",
       "properties": {
