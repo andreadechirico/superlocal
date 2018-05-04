@@ -6,6 +6,24 @@
       "properties": {
         "altitude": 0,
         "geometry": "Point",
+        "name": "GAMMA",
+        "description": "bricolage centre",
+        "popup-shorttext": "bolts and nuts",
+        "colore": "#ccc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.49753,
+          51.436337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitude": 0,
+        "geometry": "Point",
         "name": "Stoffen & Fournituren",
         "description": "Second hand shop focused on fabrics.",
         "popup-shorttext": "fabric for the stool seat",
@@ -78,7 +96,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#00bec0",
+        "stroke-width": 2,
+        "stroke-opacity": 1
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -390,6 +412,25 @@
             5.459979772567759,
             51.4200950106543
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitude": 0,
+        "geometry": "Point",
+        "name": "Easy Laser",
+        "description": "laser cut",
+        "popup-shorttext": "laser cut for the wooden structure",
+        "colore": "",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5236415,
+          51.4469896
         ]
       }
     }
