@@ -1,0 +1,150 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "altitude": 0,
+        "geometry": "Point",
+        "name": "Beeldestorm ",
+        "description": "foundry for artists and designers",
+        "popup-shorttext": "bronze casted into sand for the base",
+        "colore": "#ccc",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.48771950000003,
+          51.439161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitude": 0,
+        "geometry": "Point",
+        "name": "De Grootste Bazaar",
+        "description": "second hand supplier",
+        "popup-shorttext": "second hand mirror",
+        "colore": "#ccc",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5027988,
+          51.4319798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitude": 0,
+        "geometry": "Point",
+        "name": "GAMMA",
+        "description": "bricolage centre",
+        "popup-shorttext": "bolts and nuts",
+        "colore": "#ccc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.49753,
+          51.436337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ffa503",
+        "stroke-width": 2,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.487598478794097,
+            51.43922768104279
+          ],
+          [
+            5.487555563449859,
+            51.439125692593954
+          ],
+          [
+            5.487488508224487,
+            51.43902203196995
+          ],
+          [
+            5.487416088581085,
+            51.43895348207325
+          ],
+          [
+            5.48679918050766,
+            51.43849536548821
+          ],
+          [
+            5.486278831958771,
+            51.43813923518757
+          ],
+          [
+            5.486056208610534,
+            51.43790014145603
+          ],
+          [
+            5.485688745975494,
+            51.43738851010576
+          ],
+          [
+            5.490264594554901,
+            51.43668291760053
+          ],
+          [
+            5.49040675163269,
+            51.437022339052355
+          ],
+          [
+            5.490535497665404,
+            51.436958802223714
+          ],
+          [
+            5.493931174278259,
+            51.43649063339293
+          ],
+          [
+            5.4957228899002075,
+            51.43627661175785
+          ],
+          [
+            5.497477054595947,
+            51.43603249210615
+          ],
+          [
+            5.503581762313843,
+            51.43515298172206
+          ],
+          [
+            5.503463745117187,
+            51.43481521848119
+          ],
+          [
+            5.502841472625732,
+            51.433500927848414
+          ],
+          [
+            5.5027663707733145,
+            51.43325010472878
+          ],
+          [
+            5.502798557281494,
+            51.43195249113282
+          ]
+        ]
+      }
+    }
+  ]
+}
