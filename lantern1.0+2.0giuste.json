@@ -1,0 +1,158 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.495662,
+          51.436791
+        ]
+      },
+      "properties": {
+        "name": "Praxis Bouwmarkt",
+        "description": "Bricolage supplier ",
+        "popup-shorttext": "light bulb "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.503846,
+          51.438489
+        ]
+      },
+      "properties": {
+        "name": "Brigatti Electronics V.O.F.",
+        "description": "Electric appliances ",
+        "popup-shorttext": "cables and switch "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.510347,
+          51.439926
+        ]
+      },
+      "properties": {
+        "name": "Doornakkers",
+        "description": "Buurtkantoor",
+        "popup-shorttext": "assembly point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.508009,
+          51.434789
+        ]
+      },
+      "properties": {
+        "name": "De Mortel",
+        "description": "Metal Scrap Yard",
+        "popup-shorttext": "second hand jar "
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.495953559875488,
+            51.43667455743443
+          ],
+          [
+            5.495835542678833,
+            51.436259891275384
+          ],
+          [
+            5.504075288772583,
+            51.435089442293204
+          ],
+          [
+            5.506864786148071,
+            51.434748334374895
+          ],
+          [
+            5.50965428352356,
+            51.434480796970405
+          ],
+          [
+            5.509686470031738,
+            51.43480184166778
+          ],
+          [
+            5.5096435546875,
+            51.43517639096306
+          ],
+          [
+            5.509868860244751,
+            51.43549074246557
+          ],
+          [
+            5.509965419769287,
+            51.43581846832453
+          ],
+          [
+            5.5058884620666495,
+            51.43620638569033
+          ],
+          [
+            5.505352020263672,
+            51.436407031311084
+          ],
+          [
+            5.504236221313477,
+            51.4365541708728
+          ],
+          [
+            5.503849983215332,
+            51.43650735379092
+          ],
+          [
+            5.502476692199706,
+            51.43669462183051
+          ],
+          [
+            5.50265908241272,
+            51.43714272438014
+          ],
+          [
+            5.502777099609375,
+            51.43762426251833
+          ],
+          [
+            5.503045320510864,
+            51.43861407497137
+          ],
+          [
+            5.504772663116455,
+            51.438487005653805
+          ],
+          [
+            5.506489276885986,
+            51.438319808644785
+          ],
+          [
+            5.510072708129883,
+            51.43798541279058
+          ],
+          [
+            5.510501861572266,
+            51.439844622705714
+          ]
+        ]
+      }
+    }
+  ]
+}
