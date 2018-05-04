@@ -1,0 +1,115 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.196403,
+          51.543908
+        ]
+      },
+      "properties": {
+        "Name": "Ceramics Sculpture Studio",
+        "description": "Cosmin Ciofirdel's ceramic workshop¬†",
+        "timestamp": "",
+        "begin": "",
+        "end": "",
+        "tessellate": -1,
+        "extrude": "0",
+        "visibility": -1,
+        "drawOrder": "",
+        "icon": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.206208299999957,
+          51.5236026
+        ]
+      },
+      "properties": {
+        "Name": "Goldfinger Factory",
+        "description": "district house for recycling materials from the area + retail shop + coworking space + bar",
+        "timestamp": "",
+        "begin": "",
+        "end": "",
+        "tessellate": -1,
+        "extrude": "0",
+        "visibility": -1,
+        "drawOrder": "",
+        "icon": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.200244,
+          51.4998973
+        ]
+      },
+      "properties": {
+        "Name": "Design Museum",
+        "description": "",
+        "timestamp": "",
+        "begin": "",
+        "end": "",
+        "tessellate": -1,
+        "extrude": "0",
+        "visibility": -1,
+        "drawOrder": "",
+        "icon": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.214003199999979,
+          51.516907
+        ]
+      },
+      "properties": {
+        "Name": "Nu-line",
+        "description": "wood and hardware store",
+        "timestamp": "",
+        "begin": "",
+        "end": "",
+        "tessellate": -1,
+        "extrude": "0",
+        "visibility": -1,
+        "drawOrder": "",
+        "icon": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2132269,
+          51.5164014
+        ]
+      },
+      "properties": {
+        "Name": "Future Factory",
+        "description": "CNC and metal workshop",
+        "timestamp": "",
+        "begin": "",
+        "end": "",
+        "tessellate": -1,
+        "extrude": "0",
+        "visibility": -1,
+        "drawOrder": "",
+        "icon": ""
+      }
+    }
+  ]
+}
